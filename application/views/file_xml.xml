@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<record>
+<idberita></idberita>
+<idkategori>2</idkategori>
+<username>Ari Rizqi</username>
+<judul>Berita Web Service Tahun Ini</judul>
+<isiberita>Berikut ini berita selengkapnya mengenai Web Service pada tahun 2021</isiberita>
+<hari>Senin</hari>
+<tanggal>26-04-2021</tanggal>
+<jam>01:01:01</jam>
+</record>
+<record>
+<idberita></idberita>
+<idkategori>2</idkategori>
+<username>Muhammad</username>
+<judul>Berita Mengenai Nanggala 402</judul>
+<isiberita>Nanggala 402 telah ditemukan dan semua kru dinyatakan gugur</isiberita>
+<hari>Minggu</hari>
+<tanggal>24-04-2021</tanggal>
+<jam>01:01:02</jam>
+</record>
+
+</data>
